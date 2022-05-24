@@ -21,7 +21,8 @@
 title: Hamzah-nDev
 email: hamzah.ndev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  |The Professional Full Stack Developer Strong Candidates|Think The Right Things|Learn The Right Things|Build The Right Things|
+  The Professional Full Stack Developer Strong Candidates
+  Think The Right Things --> Learn The Right Things --> Build The Right Things
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hamzah_ndev
